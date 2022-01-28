@@ -24,7 +24,7 @@ This book is inspired by many resources:
 
 
 ## 1 Data Structure and Algorithms 
-Leetcode preparation is often ineviatable for MLE interview, although the expectation might not be as high as SDE interview. Often, medium and easy leetcode question will be asked during coding interview.     
+Leetcode preparation is inevitable for MLE interview, although the expectation might not be as much as SDE interview. Often, medium and easy leetcode questions will be asked during coding interview.     
 
 
 ## 2 Systems Design
